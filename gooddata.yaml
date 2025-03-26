@@ -1,0 +1,8 @@
+profiles:
+  prod:
+    host: https://jav.demo.cloud.gooddata.com/
+    token: $GOODDATA_TOKEN
+    workspace_id: demo-parent
+    data_source: 4add436a-1992-4b11-81b7-deb5454f949f
+source_dir: analytics
+default_profile: prod
